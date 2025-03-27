@@ -1,3 +1,42 @@
+# 🌐 **Azure Services Tutorial**
+
+
+## 📚 **Table of Contents**
+
+| Title | Description/Code |
+| -------- | ------------------ |
+| [🚀 Introduction to Azure](https://github.com/potatoscript/azure/wiki/Introduction-to-Azure) | Learn what Azure is, explore its global infrastructure, and understand how cloud services work. |
+| [⚙️ Setting Up Your Azure Account](https://github.com/potatoscript/azure/wiki/Setting-Up-Azure-Account) | Step-by-step guide to create a free Azure account and set up billing. |
+| [🔐 Azure Active Directory](https://github.com/potatoscript/azure/wiki/Active-Directory) | Learn about Azure AD, a cloud-based identity service, for secure authentication and authorization. |
+| [📦 Azure Resource Manager (ARM)](https://github.com/potatoscript/azure/wiki/Resource-Manager) | Manage resources, create infrastructure templates, and automate deployments using ARM. |
+| [🏗️ Azure Virtual Machines](https://github.com/potatoscript/azure/wiki/Virtual-Machines) | Learn how to create, configure, and manage VMs in Azure. Explore VM sizes, disks, and security settings. |
+| [☁️ Azure Storage](https://github.com/potatoscript/azure/wiki/Azure-Storage) | Understand Blob, Table, Queue, and File Storage in Azure with hands-on examples. |
+| [📤 Downloading and Uploading Blob Files](https://github.com/potatoscript/azure/wiki/Download-Blob) | Learn how to use `Azure.Storage.Blobs` to download and upload files efficiently. |
+| [🔌 Azure Networking](https://github.com/potatoscript/azure/wiki/Networking) | Set up and manage virtual networks, NSGs, and load balancers to optimize cloud communication. |
+| [🔁 Azure Kubernetes Service (AKS)](https://github.com/potatoscript/azure/wiki/Azure-Kubernetes-Service) | Deploy and manage containerized applications using Kubernetes on Azure. |
+| [🔧 Azure Function App](https://github.com/potatoscript/azure/wiki/Function-App) | Explore serverless computing with Azure Functions, automating event-driven tasks easily. |
+| [🌐 Azure App Service](https://github.com/potatoscript/azure/wiki/App-Service) | Deploy and manage web apps, mobile backends, and APIs using Azure App Service. |
+| [💾 Azure SQL Database](https://github.com/potatoscript/azure/wiki/SQL-Database) | Learn how to create, secure, and scale SQL databases in Azure. |
+| [🔒 Azure Key Vault](https://github.com/potatoscript/azure/wiki/Key-Vault) | Store and manage secrets, encryption keys, and certificates securely. |
+| [📚 Azure Logic Apps](https://github.com/potatoscript/azure/wiki/Logic-Apps) | Create automated workflows between apps and services without writing any code. |
+| [📡 Azure DevOps Basics](https://github.com/potatoscript/azure/wiki/DevOps) | Explore DevOps practices and automate deployments using Azure DevOps pipelines. |
+| [🕹️ CI/CD with Azure Pipelines](https://github.com/potatoscript/azure/wiki/Azure-Pipelines) | Build, test, and deploy code using Azure Pipelines with end-to-end CI/CD workflows. |
+| [📈 Azure Monitor and Insights](https://github.com/potatoscript/azure/wiki/Monitor) | Monitor application performance and detect anomalies with Azure Monitor. |
+| [🛡️ Azure Security Center](https://github.com/potatoscript/azure/wiki/Security-Center) | Learn best practices for securing your cloud resources and detecting threats. |
+| [🐳 Azure Container Instances (ACI)](https://github.com/potatoscript/azure/wiki/Container-Instances) | Deploy lightweight containers without managing virtual machines. |
+| [📡 Azure CDN (Content Delivery Network)](https://github.com/potatoscript/azure/wiki/CDN) | Optimize content delivery and reduce latency using Azure CDN. |
+| [🕰️ Azure Backup and Restore](https://github.com/potatoscript/azure/wiki/Backup) | Configure automatic backups for VMs and databases to prevent data loss. |
+| [🏢 Azure Site Recovery (ASR)](https://github.com/potatoscript/azure/wiki/Site-Recovery) | Ensure business continuity with Azure’s disaster recovery solutions. |
+| [🌐 Azure Load Balancer](https://github.com/potatoscript/azure/wiki/Load-Balancer) | Distribute incoming traffic to improve application availability and performance. |
+| [🤖 Azure Automation](https://github.com/potatoscript/azure/wiki/Automation) | Automate repetitive tasks and manage configurations across Azure resources. |
+| [🏢 Azure Logic Apps vs Azure Functions](https://github.com/potatoscript/azure/wiki/Logic-Apps-vs-Functions) | Compare Azure Logic Apps and Functions to determine which is better for your workflow. |
+| [📊 Azure Cost Management and Billing](https://github.com/potatoscript/azure/wiki/Cost-Management) | Learn how to track, manage, and optimize Azure costs to avoid budget overruns. |
+| [📝 Azure Governance and Policies](https://github.com/potatoscript/azure/wiki/Governance-Policies) | Implement governance and compliance policies to maintain cloud security. |
+| [🔍 Troubleshooting and Debugging in Azure](https://github.com/potatoscript/azure/wiki/Troubleshooting) | Learn how to identify and fix common errors in Azure environments. |
+
+
+---
+
 # Azure Cheat Sheets
 
 This repository provides an extensive collection of cheat sheets and tutorials for various Azure cloud services. Whether you are new to Azure or an experienced user, these resources cover the essentials and advanced topics for efficient management and deployment of cloud applications.
